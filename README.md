@@ -1,4 +1,5 @@
 
+![image](https://github.com/user-attachments/assets/3e963d40-1618-4378-ae5e-cbb8a2b2f4bd)
 
 
 # Bertaquinto-proyectos.
@@ -33,6 +34,6 @@ Si estás buscando a alguien con:
 - 💬 Buena comunicación
 - 🧩 Ganas de aportar desde el primer día
 
-Entonces, ¡hablemos! Estoy listo para sumar valor a tu proyecto. 🚀
+Entonces, ¡hablemos! Estoy listo para sumar valor a tu proyecto. 🚀   
 
 
