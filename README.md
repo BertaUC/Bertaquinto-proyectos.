@@ -1,11 +1,33 @@
 # Bertaquinto-proyectos.
-👋 ¡Hola! Berta 
+👋 ¡Hola! Soy Berta
 
-Soy un apasionado estudiante de tecnología ,de Perú 🇵🇪
-Me encuentro en constante formación, impulsado por una fuerte motivación por aprender, mejorar y destacar en el mundo del desarrollo de software. Cada línea de código representa una oportunidad para crecer, y cada nuevo proyecto, un desafío que estoy dispuesto a asumir con compromiso y entusiasmo.
 
-🔍 Me encanta sumergirme en nuevos lenguajes, frameworks y tecnologías. No le tengo miedo a lo desconocido, al contrario, ¡me emociona!
-🤝 Busco activamente participar en proyectos colaborativos donde pueda aportar, aprender y conectar con otros apasionados por la tecnología.
-🚀 Mi objetivo es construir una carrera sólida en el desarrollo de software, destacando por mi dedicación, actitud positiva y deseo constante de superación.
+¡Hola! Soy un estudiante apasionado por la tecnología y soy de **Perú 🇵🇪**.  
+Estoy dando mis primeros pasos en el mundo del desarrollo con **muchas ganas de aprender**, **superarme** y **destacar** entre los mejores.
 
-Estoy abierto a oportunidades, colaboraciones y mentorías. Si tienes un proyecto interesante o simplemente quieres conectar, ¡no dudes en escribirme!
+### 🚀 ¿Qué me define?
+
+- 💡 Curioso por naturaleza, siempre buscando aprender algo nuevo.
+- 💻 Apasionado por el desarrollo y las nuevas tecnologías.
+- 🤝 Con muchas ganas de participar en proyectos reales y crecer en equipo.
+- 📈 Motivado por el deseo de mejorar día a día y no quedarme atrás.
+- 🎯 Enfocado en construir una carrera sólida en el mundo tech.
+
+### 🧠 Mi mentalidad
+
+> **"Nunca es tarde para empezar, y nunca es suficiente lo que se puede aprender."**
+
+Estoy comprometido con mi crecimiento personal y profesional.  
+Me esfuerzo por dar lo mejor de mí en todo lo que hago, con una actitud positiva y una gran disposición para trabajar en equipo.
+
+---
+
+### 📫 ¿Colaboramos?
+
+Si estás buscando a alguien con:
+- 🔥 Pasión por aprender
+- ✅ Responsabilidad
+- 💬 Buena comunicación
+- 🧩 Ganas de aportar desde el primer día
+
+Entonces, ¡hablemos! Estoy listo para sumar valor a tu proyecto. 🚀
