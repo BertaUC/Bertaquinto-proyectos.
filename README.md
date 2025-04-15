@@ -1,4 +1,4 @@
-ttps://cuddly-rotary-phone-7vg7qvx6j5g2xq65-3000.app.github.dev/
+
 
 
 # Bertaquinto-proyectos.
@@ -34,3 +34,5 @@ Si estás buscando a alguien con:
 - 🧩 Ganas de aportar desde el primer día
 
 Entonces, ¡hablemos! Estoy listo para sumar valor a tu proyecto. 🚀
+
+
