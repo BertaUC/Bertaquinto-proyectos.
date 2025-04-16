@@ -1,0 +1,20 @@
+<h1>Calculadora Simple</h1> 
+Una calculadora web simple construida con HTML, CSS y JavaScript. 
+<strong>Funcionalidades:</strong> 
+<ul> 
+<li>Realiza operaciones básicas de suma, resta, multiplicación y división.</li> 
+<li>Manejo de errores para entradas inválidas.</li> 
+<li>Interfaz de usuario amigable y responsive.</li> 
+</ul> 
+<strong>Tecnologías:</strong> 
+<ul> 
+<li>HTML</li> 
+<li>CSS</li> 
+<li>JavaScript</li> 
+</ul> 
+<strong>Instalación:</strong> 
+Clona el repositorio y abre el archivo <code>index.html</code> en tu navegador. 
+<strong>Demo:</strong> 
+(Puedes incluir aquí una captura de pantalla o un GIF de la calculadora en funcionamiento) 
+<strong>Contribuciones:</strong> 
+Las contribuciones son bienvenidas.  Considera agregar nuevas funcionalidades, como funciones trigonométricas o una mejor interfaz de usuario.
